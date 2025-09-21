@@ -16,6 +16,7 @@
 \RequirePackage[en-GB]{datetime2}
 
 
+
 \DTMlangsetup[en-GB]{ord=omit}
 
 
@@ -45,6 +46,35 @@
 \rfoot{} 
 \renewcommand{\headrulewidth}{0pt} % 移除页眉下划线
 \renewcommand{\footrulewidth}{0pt} % 移除页脚下划线
+
+\usepackage{titlesec}  % 必须先加载titlesec包
+
+% 自定义section标题格式
+\titleformat{\section}             % 自定义section标题
+  {\normalfont\fontsize{12pt}{12pt}\selectfont\bfseries\centering} % 12pt Times New Roman，加粗，居中
+  {}                              % 无编号
+  {0pt}                           % 标签与标题之间的间距（无标签时为0）
+  {}                              % 标题内容
+  
+
+% 自定义section标题间距
+\titlespacing*{\section}          
+  {0pt}    % 左侧间距
+  {8pt}    % 标题上方间距
+  {8pt}    % 标题下方间距，与正文段后间距一致
+
+% 自定义 subsection 标题格式
+\titleformat{\subsection}%
+  {\normalfont\fontsize{12pt}{14.4pt}\selectfont\bfseries\raggedright} % 12pt，加粗，左对齐
+  {}                % 无编号
+  {0pt}                           % 标签与标题之间的间距（无标签时为0）
+  {}                              % 标题内容
+
+% 自定义 subsection 间距
+\titlespacing*{\subsection}%
+  {0pt}   % 左缩进
+  {0pt}   % 标题上方间距
+  {0pt}   % 标题下方间距
 
 
 

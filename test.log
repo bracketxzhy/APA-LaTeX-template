@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.8.12)  21 SEP 2025 15:54
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.8.12)  21 SEP 2025 16:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -359,6 +359,17 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthC=\skip85
 \f@nch@widthR=\skip86
 \@temptokenb=\toks23
+) (c:/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box56
+\beforetitleunit=\skip87
+\aftertitleunit=\skip88
+\ttl@plus=\dimen185
+\ttl@minus=\dimen186
+\ttl@toksa=\toks24
+\titlewidth=\dimen187
+\titlewidthlast=\dimen188
+\titlewidthfirst=\dimen189
 )) (./test.aux)
 \openout1 = `test.aux'.
 
@@ -487,9 +498,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.39998pt}.
 
 [1]
-Underfull \hbox (badness 1460) in paragraph at lines 39--49
-\TU/TimesNewRoman(0)/m/n/12 education, including in teaching staff and facilities support. Consequently, the resource 
- []
+
+LaTeX Font Warning: Font shape `TU/SimSun(1)/b/n' undefined
+(Font)              using `TU/SimSun(1)/m/n' instead on input line 47.
 
 
 
@@ -510,6 +521,38 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.39998pt}.
 
 [3]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.39998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.39998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.39998pt}.
+
+[4]
+Underfull \hbox (badness 1859) in paragraph at lines 123--134
+\TU/TimesNewRoman(0)/m/n/12 system is a factor correlated with school alienation among college students. The study 
+ []
+
+
+Underfull \hbox (badness 1484) in paragraph at lines 123--134
+\TU/TimesNewRoman(0)/m/n/12 conducted semi-structured interviews involving 20 college students from across China, 
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.39998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.39998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.39998pt}.
+
+[5]
+Underfull \hbox (badness 1286) in paragraph at lines 149--156
+\TU/TimesNewRoman(0)/m/n/12 consider the diversity and complexity of school alienation in different cultural contexts. 
+ []
+
 No file test.bbl.
 
 
@@ -520,19 +563,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.39998pt}.
 
-[4] (./test.aux)
+[6] (./test.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/07/14>
  ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
  ) 
 Here is how much of TeX's memory you used:
- 10586 strings out of 473832
- 277644 string characters out of 5733158
- 690385 words of memory out of 5000000
- 33522 multiletter control sequences out of 15000+600000
+ 10898 strings out of 473832
+ 282404 string characters out of 5733158
+ 696766 words of memory out of 5000000
+ 33830 multiletter control sequences out of 15000+600000
  560695 words of font info for 65 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 108i,12n,125p,417b,347s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,13n,125p,384b,351s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on test.pdf (5 pages).
+Output written on test.pdf (7 pages).
