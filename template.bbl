@@ -1,52 +1,315 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
-Chen%
+Brown%
+, Higgins%
+, Pierce%
+, Hong%
+\BCBL {}\ \BBA {} Thoma%
 }{%
-Chen%
+Brown%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2003}}%
+}]{%
+brown2003secondary}
+\APACinsertmetastar {%
+brown2003secondary}%
+\begin{APACrefauthors}%
+Brown, M\BPBI R.%
+, Higgins, K.%
+, Pierce, T.%
+, Hong, E.%
+\BCBL {}\ \BBA {} Thoma, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Secondary Students’ Perceptions of School Life with Regard to Alienation: The Effects of Disability, Gender and Race} {Secondary students’ perceptions of school life with regard to alienation: The effects of disability, gender and race}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Learning Disability Quarterly}{26}{4}{227--238}.
+\newblock
+\begin{APACrefDOI} \doi{10.2307/1593636} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Caglar%
+}{%
+Caglar%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+caglar2013relationship}
+\APACinsertmetastar {%
+caglar2013relationship}%
+\begin{APACrefauthors}%
+Caglar, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Relationship between the Perceptions of Fairness of the Learning Environment and the Level of Alienation} {The relationship between the perceptions of fairness of the learning environment and the level of alienation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Egitim Arastirmalari - Eurasian Journal of Educational Research}{50}{}{185--206}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Caselman%
+\ \BBA {} Self%
+}{%
+Caselman%
+\ \BBA {} Self%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+caselman2007adolescent}
+\APACinsertmetastar {%
+caselman2007adolescent}%
+\begin{APACrefauthors}%
+Caselman, T\BPBI D.%
+\BCBT {}\ \BBA {} Self, P\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Adolescent Perception of Self as a Close Friend: Culture and Gendered Contexts} {Adolescent perception of self as a close friend: Culture and gendered contexts}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Social Psychology of Education}{10}{3}{353--373}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s11218-007-9018-y} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+David%
+\ \BBA {} Nită%
+}{%
+David%
+\ \BBA {} Nită%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+david2014adjustment}
+\APACinsertmetastar {%
+david2014adjustment}%
+\begin{APACrefauthors}%
+David, L\BPBI T.%
+\BCBT {}\ \BBA {} Nită, G\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Adjustment to First Year of College – Relations among Self-Perception, Trust, Mastery and Alienation} {Adjustment to first year of college – relations among self-perception, trust, mastery and alienation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Procedia - Social and Behavioral Sciences}{127}{}{139--143}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.sbspro.2014.03.228} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Deng%
+}{%
+Deng%
+}{%
+{\protect \APACyear {2024}}%
+}]{%
+deng2024interdependence}
+\APACinsertmetastar {%
+deng2024interdependence}%
+\begin{APACrefauthors}%
+Deng, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Interdependence of Educational Alienation and Equality: Rethinking China’s Examination-Oriented Education System} {The interdependence of educational alienation and equality: Rethinking china’s examination-oriented education system}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Cogent Education}{11}{1}{}.
+\newblock
+\begin{APACrefDOI} \doi{10.1080/2331186x.2024.2385770} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hegel%
+}{%
+Hegel%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+hegel2018phenomenology}
+\APACinsertmetastar {%
+hegel2018phenomenology}%
+\begin{APACrefauthors}%
+Hegel, G\BPBI W\BPBI F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2018}.
+\newblock
+\APACrefbtitle {Georg Wilhelm Friedrich Hegel: The Phenomenology of Spirit} {Georg wilhelm friedrich hegel: The phenomenology of spirit}\ (M.~Baur\ \BBA {} T.~Pinkard, \BEDS{} \BAnd{} T.~Pinkard, \BTRANS{}).
+\newblock
+\APACaddressPublisher{}{Cambridge University Press}.
+\newblock
+\APACrefnote{Original work published 1807}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Morinaj%
+\ \BBA {} Hascher%
+}{%
+Morinaj%
+\ \BBA {} Hascher%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+morinaj2018school}
+\APACinsertmetastar {%
+morinaj2018school}%
+\begin{APACrefauthors}%
+Morinaj, J.%
+\BCBT {}\ \BBA {} Hascher, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {School Alienation and Student Well-Being: A Cross-Lagged Longitudinal Analysis} {School alienation and student well-being: A cross-lagged longitudinal analysis}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{European Journal of Psychology of Education}{34}{2}{273--294}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s10212-018-0381-1} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Trivedi%
+\ \BBA {} Prakasha%
+}{%
+Trivedi%
+\ \BBA {} Prakasha%
 }{%
 {\protect \APACyear {2021}}%
 }]{%
-Chen2021}
+trivedi2021student}
 \APACinsertmetastar {%
-Chen2021}%
+trivedi2021student}%
 \begin{APACrefauthors}%
-Chen, B.%
+Trivedi, R.%
+\BCBT {}\ \BBA {} Prakasha, G\BPBI S.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
 \APACrefYearMonthDay{2021}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {Jiuye xingshi wen zhong cheng ya, duo cuo bing ju zhichi jiuye: 2021 nian jiuye xingshi fenxi yu 2022 nian zhanwang [Employment situation steadily bearing pressure, multiple measures supporting employment: Analysis of the 2021 employment situation and outlook for 2022]} {Jiuye xingshi wen zhong cheng ya, duo cuo bing ju zhichi jiuye: 2021 nian jiuye xingshi fenxi yu 2022 nian zhanwang [employment situation steadily bearing pressure, multiple measures supporting employment: Analysis of the 2021 employment situation and outlook for 2022]}.{\BBCQ}
+{\BBOQ}\APACrefatitle {Student Alienation and Perceived Organizational Culture: A Correlational Study} {Student alienation and perceived organizational culture: A correlational study}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Jingji yuce fenxi / Economic Forecasting Analysis}{}{51}{}.
+\APACjournalVolNumPages{International Journal of Evaluation and Research in Education (IJERE)}{10}{4}{1149}.
+\newblock
+\begin{APACrefDOI} \doi{10.11591/ijere.v10i4.21304} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Eikeland%
-\ \BBA {} Ohna%
+van~der Velden%
 }{%
-Eikeland%
-\ \BBA {} Ohna%
+van~der Velden%
 }{%
-{\protect \APACyear {2022}}%
+{\protect \APACyear {2012}}%
 }]{%
-Eikeland2022}
+velden2012institutional}
 \APACinsertmetastar {%
-Eikeland2022}%
+velden2012institutional}%
 \begin{APACrefauthors}%
-Eikeland, I.%
-\BCBT {}\ \BBA {} Ohna, S\BPBI E.%
+van~der Velden, G.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2022}{}{}.
+\APACrefYearMonthDay{2012}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {Differentiation in education: A configurative review} {Differentiation in education: A configurative review}.{\BBCQ}
+{\BBOQ}\APACrefatitle {Institutional Level Student Engagement and Organisational Cultures} {Institutional level student engagement and organisational cultures}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Nordic Journal of Studies in Educational Policy}{8}{3}{157--170}.
+\APACjournalVolNumPages{Higher Education Quarterly}{66}{3}{227--247}.
 \newblock
-\begin{APACrefDOI} \doi{10.1080/20020317.2022.2039351} \end{APACrefDOI}
+\begin{APACrefDOI} \doi{10.1111/j.1468-2273.2012.00521.x} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wu%
+\ \protect \BOthers {.}}{%
+Wu%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2024}}%
+}]{%
+wu2024sense}
+\APACinsertmetastar {%
+wu2024sense}%
+\begin{APACrefauthors}%
+Wu, H.%
+, You, J.%
+, An, Z.%
+, Hu, H.%
+, Tian, M.%
+, Cao, T.%
+\BDBL {}Wu, W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Sense of Alienation, Security, and Life Satisfaction among Undergraduate: A Cross-Sectional Study from China} {Sense of alienation, security, and life satisfaction among undergraduate: A cross-sectional study from china}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Research Square}{}{}{}.
+\newblock
+\begin{APACrefDOI} \doi{10.21203/rs.3.rs-4336978/v1} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Xia%
+}{%
+Xia%
+}{%
+{\protect \APACyear {2024}}%
+}]{%
+xia2024jiaoyu}
+\APACinsertmetastar {%
+xia2024jiaoyu}%
+\begin{APACrefauthors}%
+Xia, X.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Jiaoyu Yihua Genyuan yu Xiaojie Tujing Tantao [Discussion on the Root of Educational Dissimilation and Its Resolution]} {Jiaoyu yihua genyuan yu xiaojie tujing tantao [discussion on the root of educational dissimilation and its resolution]}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Advances in Education}{14}{07}{714--719}.
+\newblock
+\begin{APACrefDOI} \doi{10.12677/ae.2024.1471224} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zhang%
+}{%
+Zhang%
+}{%
+{\protect \APACyear {2003}}%
+}]{%
+zhang2003daxuesheng}
+\APACinsertmetastar {%
+zhang2003daxuesheng}%
+\begin{APACrefauthors}%
+Zhang, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+\APACrefbtitle {Daxuesheng Zhong de “Yihua” Xianxiang yu Daxue Deyu [The Phenomenon of “Alienation” among University Students and Moral Education in Universities].} {Daxuesheng zhong de “yihua” xianxiang yu daxue deyu [the phenomenon of “alienation” among university students and moral education in universities].}
+\newblock
+\APACaddressPublisher{}{Institute of Moral Education, Nanjing Normal University}.
+\newblock
+\begin{APACrefURL} \url{https://dys.njnu.edu.cn/info/1026/5528.htm} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

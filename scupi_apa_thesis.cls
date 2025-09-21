@@ -3,6 +3,8 @@
 
 \LoadClass[12pt]{article}
 
+
+
 % ========== 基本包 ==========
 \RequirePackage[utf8]{inputenc}
 \RequirePackage{ctex}               % 中文支持
@@ -14,10 +16,23 @@
 \RequirePackage{graphicx}           % 插入校徽
 \RequirePackage[none]{hyphenat}     % 禁止断词
 \RequirePackage[en-GB]{datetime2}
+\RequirePackage{caption}            % 添加 caption 包以控制标题格式
+\captionsetup{
+    labelfont=bf,                   % 标签加粗
+    textfont=rm,                    % 文本使用罗马字体（英文）
+    justification=raggedright,      % 左对齐（flush left）
+    singlelinecheck=false           % 确保单行标题也左对齐
+}
+% 重定义 caption 标签为英文（覆盖 ctex 的中文翻译）
+\renewcommand{\tablename}{Table}
+\renewcommand{\figurename}{Figure}
+
+
 
 
 \usepackage{apacite}
-
+\usepackage{tabularx} % 添加 tabularx 包支持
+\usepackage{booktabs} % 支持三线表样式
 
 
 \DTMlangsetup[en-GB]{ord=omit}
@@ -31,6 +46,7 @@
 \RaggedRight                        % 左对齐
 \setlength{\parindent}{0.5in}       % 首行缩进
 \sloppy
+
 
 
 % ========== 字体设置 ==========
@@ -50,8 +66,10 @@
 \renewcommand{\headrulewidth}{0pt} % 移除页眉下划线
 \renewcommand{\footrulewidth}{0pt} % 移除页脚下划线
 
-\usepackage{titlesec}  % 必须先加载titlesec包
 
+
+%========== 标题格式 ===========
+\usepackage{titlesec}  % 必须先加载titlesec包
 % 自定义section标题格式
 \titleformat{\section}             % 自定义section标题
   {\normalfont\fontsize{12pt}{12pt}\selectfont\bfseries\centering} % 12pt Times New Roman，加粗，居中
