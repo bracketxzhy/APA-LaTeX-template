@@ -1,0 +1,96 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+{CCTV}%
+}{%
+{CCTV}%
+}{%
+{\protect \APACyear {2025}}%
+}]{%
+CCTV2025}
+\APACinsertmetastar {%
+CCTV2025}%
+\begin{APACrefauthors}%
+{CCTV}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2025}{March 6}{}.
+\newblock
+\APACrefbtitle {Jing ji zhu ti ji zhe hui: kuo da you zhi jiao yu zi yuan gong
+  ji "shuang yi liu" gao xiao ben ke li zheng zai kuo zhao 20 wan ren [Economic
+  press conference on expanding the supply of high-quality educational
+  resources: Double First-Class universities aim to enroll 20,000 more
+  undergraduates].} {Jing ji zhu ti ji zhe hui: kuo da you zhi jiao yu zi yuan
+  gong ji "shuang yi liu" gao xiao ben ke li zheng zai kuo zhao 20 wan ren
+  [economic press conference on expanding the supply of high-quality
+  educational resources: Double first-class universities aim to enroll 20,000
+  more undergraduates].}
+\newblock
+\begin{APACrefURL}
+  \url{https://news.cctv.com/2025/03/06/ARTITWBDaVj3mDTzQI7Fyl4k250306.shtml}
+  \end{APACrefURL}
+\newblock
+\APACrefnote{Retrieved September 21, 2025}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Chen%
+}{%
+Chen%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+Chen2021}
+\APACinsertmetastar {%
+Chen2021}%
+\begin{APACrefauthors}%
+Chen, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Jiuye xingshi wen zhong cheng ya, duo cuo bing ju zhichi
+  jiuye: 2021 nian jiuye xingshi fenxi yu 2022 nian zhanwang [Employment
+  situation steadily bearing pressure, multiple measures supporting employment:
+  Analysis of the 2021 employment situation and outlook for 2022]} {Jiuye
+  xingshi wen zhong cheng ya, duo cuo bing ju zhichi jiuye: 2021 nian jiuye
+  xingshi fenxi yu 2022 nian zhanwang [employment situation steadily bearing
+  pressure, multiple measures supporting employment: Analysis of the 2021
+  employment situation and outlook for 2022]}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Jingji yuce fenxi / Economic Forecasting
+  Analysis}{}{51}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Eikeland%
+\ \BBA {} Ohna%
+}{%
+Eikeland%
+\ \BBA {} Ohna%
+}{%
+{\protect \APACyear {2022}}%
+}]{%
+Eikeland2022}
+\APACinsertmetastar {%
+Eikeland2022}%
+\begin{APACrefauthors}%
+Eikeland, I.%
+\BCBT {}\ \BBA {} Ohna, S\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Differentiation in education: A configurative review}
+  {Differentiation in education: A configurative review}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nordic Journal of Studies in Educational
+  Policy}{8}{3}{157--170}.
+\newblock
+\begin{APACrefDOI} \doi{10.1080/20020317.2022.2039351} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

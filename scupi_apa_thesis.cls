@@ -16,6 +16,9 @@
 \RequirePackage[en-GB]{datetime2}
 
 
+\usepackage{apacite}
+
+
 
 \DTMlangsetup[en-GB]{ord=omit}
 
@@ -55,7 +58,6 @@
   {}                              % 无编号
   {0pt}                           % 标签与标题之间的间距（无标签时为0）
   {}                              % 标题内容
-  
 
 % 自定义section标题间距
 \titlespacing*{\section}          
@@ -73,7 +75,7 @@
 % 自定义 subsection 间距
 \titlespacing*{\subsection}%
   {0pt}   % 左缩进
-  {0pt}   % 标题上方间距
+  {8pt}   % 标题上方间距
   {0pt}   % 标题下方间距
 
 
@@ -86,7 +88,6 @@
 \newcommand{\@course}{}
 \newcommand{\@institute}{}
 \renewcommand{\@date}{}
-
 \renewcommand{\title}[1]{\renewcommand{\@title}{#1}}
 \renewcommand{\author}[1]{\renewcommand{\@author}{#1}}
 \newcommand{\studentid}[1]{\renewcommand{\@studentid}{#1}}
