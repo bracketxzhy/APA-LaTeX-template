@@ -1,5 +1,6 @@
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{studentpaper}[2025/09/21 Custom Document Class for Student Papers]
+\ProvidesClass{scupi_apa_thesis}[2025/09/21 Custom Document Class]
+
 
 \LoadClass[12pt]{article}
 
@@ -28,9 +29,8 @@
 \renewcommand{\figurename}{Figure}
 
 
-
-
 \usepackage{apacite}
+\usepackage{url}
 \usepackage{tabularx} % 添加 tabularx 包支持
 \usepackage{booktabs} % 支持三线表样式
 
